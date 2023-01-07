@@ -1,3 +1,5 @@
 # Minesweeper
 Mine sweeper
-![image](https://user-images.githubusercontent.com/61108925/211160509-a53f0b08-8c83-4846-8e28-38835c821311.png)
+
+![image](https://user-images.githubusercontent.com/61108925/211160520-4c4a118a-de94-40d3-a4e2-99ee326da26a.png)
+
